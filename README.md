@@ -1,7 +1,7 @@
-# FacebookMessengerWrapper
+# FacebookMessengerWrapper(s)
 Created Feb 17, 2026
 
-Don't you just hate how Meta got rid of their cilents, and is now removing Messenger.com? This repository will contain varous workarounds to have a simple icon and a simplified browser window to access Messenger. 
+Don't you just hate how Meta got rid of their cilents, and is now removing Messenger.com? This repository will contain varous workarounds to have a simple icon in your application folder (or in your dock) and a simplified browser window to access Messenger. Think of it as a poor mans Electron app.
 
 ## Mac/OSX
 
@@ -19,11 +19,21 @@ This Automator app simply runs this bash command
 **Installation**
 
 1. Download here: https://github.com/davidyoh/FacebookMessengerWrappers/blob/main/download/Messenger.zip
-2. Unzip, and drag the app into your Application Folder.
-3. Optional - Open the application folder, and drag the Messenger icon to your dock for easy access
+2. Unzip, and drag the app into your **Application Folder.**
+3. **Optional** - From application folder, and drag the Messenger icon to your dock for easy access
 
-**Limitations:**
-OSX Treats it as a Chrome window. That means it won't have a separate icon when it's running that's differentiated from Chrome because it is Chrome.
+**Customize the Icon**
+
+I preloaded my personal favorite icon for Messenger, but you can simply 
+
+1. Find a `.png` or `.icns` image you want to use
+2. Open the image in **Preview** and **Cmd+A** to select all, then **Cmd+C** to copy
+3. Right-click the app → **Get Info**
+4. Click the small icon in the **top-left corner** of the Get Info window (it'll get a blue highlight)
+5. **Cmd+V** to paste
+
+**Notes**
+OSX Treats it as a Chrome window because it is just another Chrome window. That means it won't have a separate icon when it's running that's differentiated from Chrome because it *is* Chrome. From a storage perspective, this is more efficient than downloading a huge electron app. Another benefit is that you shouldn't have to login separately.
 
 ### Option 2: Using Webcatalog.io
 
