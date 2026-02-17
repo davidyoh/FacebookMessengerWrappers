@@ -75,7 +75,7 @@ OSX Treats it as a Chrome window because it is just another Chrome window. That 
 
 - The name of the tab is not updating. Messenger updates its tab name frequently to tell you how many unread messages there are
 
-### Option 2: Using Webcatalog.io
+### Option 2: Using a bespoke wrapper
 
 Coming soon.
 
