@@ -1,4 +1,7 @@
+![Messenger Desktop Workarounds](./banner.jpg)
+
 # FacebookMessengerWrapper(s)
+
 Created Feb 17, 2026
 
 Remember when Meta had a perfectly good desktop Messenger app? They killed it. 🪦 Messenger.com? On the chopping block too. 🔪 Apparently "a simple window where you send messages on your computer" was too radical a concept for a trillion-dollar company. 🤷
