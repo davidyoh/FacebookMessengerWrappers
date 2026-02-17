@@ -16,11 +16,14 @@ This Automator app simply runs this bash command
 
 `open -na "Google Chrome" --args --app="https://www.facebook.com/messages/"`
 
+**Download**
+
+[v0.1.0-Messenger-OSX-Automator-Chrome.zip](https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/osx/v0.1.0-Messenger-OSX-Automator-Chrome.zip)
+
 **Installation**
 
-1. Download here: https://github.com/davidyoh/FacebookMessengerWrappers/blob/main/download/Messenger.zip
-2. Unzip, and drag the app into your **Application Folder.**
-3. **Optional** - From application folder, and drag the Messenger icon to your dock for easy access
+1. Unzip, and drag the app into your **Application Folder.**
+2. **Optional** - From application folder, and drag the Messenger icon to your dock for easy access
 
 **Customize the Icon**
 
