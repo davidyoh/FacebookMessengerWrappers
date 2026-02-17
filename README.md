@@ -6,18 +6,55 @@ Created Feb 17, 2026
 
 Remember when Meta had a perfectly good desktop Messenger app? They killed it. 🪦 Messenger.com? On the chopping block too. 🔪 Apparently "a simple window where you send messages on your computer" was too radical a concept for a trillion-dollar company. 🤷
 
-This repo is a collection of workarounds to get Messenger back as a standalone desktop app — a proper icon in your Dock, a clean browser window, no nonsense. Think of it as a poor man's Electron app, except it doesn't take up a few hundred MB of disk space 💀, which already makes it better than most Electron apps.
+This repo is a collection of workarounds to get Messenger back as a standalone desktop app — a proper icon in your Dock, a clean browser window, no nonsense. 
 
 ------
 
-## Mac/OSX
+## MacOS/OSX
 
-### Option 1: Using Automator, Chrome, and Bash
+### Option 1: Lightweight Wrapper
+
+Wrapped inside Chromium using Webcatalog.io. This is the preferred installation method.
+
+**Requirements:** 
+
+- Facebook account
+- MacOS Tahoe (Older versions may work, depending on Chromiums backward compatibility)
+- Diskspace: 330 MB / RAM: ~100 MB
+
+**Download**
+
+**Installation**
+
+1. Unzip, and drag the app into your **Application Folder.**
+2. Optional. Rename the app from Messenger-Slim to Messenger (or whatever you want)
+3. Open Messenger. It will ask you what layout you want. Choose minimalist.
+4. Login to Messenger.
+
+**Customization**
+
+To make it even more minimal and get rid of the annoying tabs
+
+<img src="./tabs.png" alt="Tabs" style="zoom:33%;" />
+
+1. Within Messenger, go to Messenger->Settings (top left of the screen)
+2. On the sidebar to the left, click on Appearence
+
+<img src="/Users/david/GitHub/FacebookMessengerWrapperChrome/appearence.jpg" alt="appearence" style="zoom:50%;" />
+
+**Recommended tweaks**
+
+- Show Tabbar -> NEVER
+- Show Titlebar -> OFF
+
+### Option 2: Using Automator, Chrome, and Bash
 
 **Requirements:**
 
-- OSX Tahoe (Older versions may work, depending on Automators backwards compatibility)
+- Facebook Account
+- MacOS Tahoe (Older versions may work, depending on Automators backwards compatibility)
 - Google Chrome
+- Diskspace: 4.3 MB
 
 This Automator app simply runs this bash command
 
@@ -75,7 +112,5 @@ OSX Treats it as a Chrome window because it is just another Chrome window. That 
 
 - The name of the tab is not updating. Messenger updates its tab name frequently to tell you how many unread messages there are
 
-### Option 2: Using a bespoke wrapper
 
-Coming soon.
 
