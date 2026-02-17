@@ -42,7 +42,7 @@ To make it even more minimal and get rid of the annoying tabs
 1. Within Messenger, go to Messenger->Settings (top left of the screen)
 2. On the sidebar to the left, click on Appearence
 
-![appearence](/Users/david/GitHub/FacebookMessengerWrapperChrome/appearence.jpg)
+![appearence](./appearence.jpg)
 
 **Recommended tweaks**
 
