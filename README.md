@@ -8,13 +8,7 @@ Remember when Meta had a perfectly good desktop Messenger app? They killed it. ð
 
 This repo is a collection of workarounds to get Messenger back as a standalone desktop app â€” a proper icon in your Dock, a clean browser window, no nonsense. 
 
-------
 
-[TOC]
-
-
-
-------
 
 ## MacOS/OSX
 
