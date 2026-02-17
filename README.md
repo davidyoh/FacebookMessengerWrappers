@@ -1,7 +1,9 @@
 # FacebookMessengerWrapper(s)
 Created Feb 17, 2026
 
-Don't you just hate how Meta got rid of their cilents, and is now removing Messenger.com? This repository will contain varous workarounds to have a simple icon in your application folder (or in your dock) and a simplified browser window to access Messenger. Think of it as a poor mans Electron app.
+Remember when Meta had a perfectly good desktop Messenger app? They killed it. Messenger.com? On the chopping block too. Apparently "a simple window where you send messages on your computer" was too radical a concept for a trillion-dollar company.
+
+This repo is a collection of workarounds to get Messenger back as a standalone desktop app — a proper icon in your Dock, a clean browser window, no nonsense. Think of it as a poor man's Electron app.
 
 ## Mac/OSX
 
