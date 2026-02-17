@@ -25,7 +25,7 @@ This Automator app simply runs this bash command
 
 **Download**
 
-[v0.1.0-Messenger-OSX-Automator-Chrome.zip](https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/osx/v0.1.0-Messenger-OSX-Automator-Chrome.zip)
+https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.1/v0.1.1-Messenger.zip
 
 **Installation**
 
