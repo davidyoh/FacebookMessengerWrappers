@@ -47,7 +47,6 @@ To make it even more minimal and get rid of the annoying tabs
 **Recommended tweaks**
 
 - Show Tab bar -> NEVER
-- Show Title bar -> OFF
 
 ------
 
