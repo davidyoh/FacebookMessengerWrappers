@@ -24,6 +24,8 @@ Wrapped inside Chromium using Webcatalog.io. This is the preferred installation 
 
 **Download**
 
+https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.0-Slim/v0.1.0-Messenger-Slim.zip
+
 **Installation**
 
 1. Unzip, and drag the app into your **Application Folder.**
@@ -44,8 +46,8 @@ To make it even more minimal and get rid of the annoying tabs
 
 **Recommended tweaks**
 
-- Show Tabbar -> NEVER
-- Show Titlebar -> OFF
+- Show Tab bar -> NEVER
+- Show Title bar -> OFF
 
 ### Option 2: Using Automator, Chrome, and Bash
 
