@@ -10,6 +10,12 @@ This repo is a collection of workarounds to get Messenger back as a standalone d
 
 ------
 
+[TOC]
+
+
+
+------
+
 ## MacOS/OSX
 
 ### Option 1: Lightweight Wrapper
@@ -42,12 +48,16 @@ To make it even more minimal and get rid of the annoying tabs
 1. Within Messenger, go to Messenger->Settings (top left of the screen)
 2. On the sidebar to the left, click on Appearence
 
-<img src="/Users/david/GitHub/FacebookMessengerWrapperChrome/appearence.jpg" alt="appearence" style="zoom:50%;" />
+![appearence](/Users/david/GitHub/FacebookMessengerWrapperChrome/appearence.jpg)
 
 **Recommended tweaks**
 
 - Show Tab bar -> NEVER
 - Show Title bar -> OFF
+
+------
+
+
 
 ### Option 2: Using Automator, Chrome, and Bash
 
