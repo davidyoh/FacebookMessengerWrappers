@@ -1,3 +1,4 @@
 .DS_Store
 download/*
 *.zip
+package-lock.json

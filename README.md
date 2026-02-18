@@ -14,38 +14,34 @@ This repo is a collection of workarounds to get Messenger back as a standalone d
 
 ### Option 1: Lightweight Wrapper
 
-Wrapped inside Chromium using Webcatalog.io. This is the preferred installation method.
+Wrapped using Pake, which uses Rust Tauri. 20x smaller than Electron apps. 
 
 **Requirements:** 
 
 - Facebook account
 - MacOS Tahoe (Older versions may work, depending on Chromiums backward compatibility)
-- Diskspace: 330 MB / RAM: ~100 MB
+- Diskspace: ~5 MB / RAM: ~50 MB
 
 **Download**
 
-https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.0-Slim/v0.1.0-Messenger-Slim.zip
+
 
 **Installation**
 
-1. Unzip, and drag the app into your **Application Folder.**
-3. Open Messenger-Slim. It will ask you what layout you want. Choose minimalist.
-4. Login to Messenger.
+1. Unzip, open the DMG file, and drag the app into your **Application Folder.**
+3. Open and Login
 
-**Customization**
+**Customize the Icon**
 
-To make it even more minimal and get rid of the annoying tabs....
+It defaults to whatever is available from Facebook, but you can simply...
 
-<img src="./tabs.png" alt="Tabs" style="zoom:33%;" />
+1. Find a `.png` or `.icns` image you want to use. Note: A good icon is here: https://github.com/davidyoh/FacebookMessengerWrappers/blob/main/src/assets/Facebook_Messenger.png
+2. Open the image in **Preview** and **Cmd+A** to select all, then **Cmd+C** to copy
+3. Right-click the app → **Get Info**
+4. Click the small icon in the **top-left corner** of the Get Info window (it'll get a blue highlight)
+5. **Cmd+V** to paste
 
-1. Within Messenger, go to Messenger->Settings (top left of the screen)
-2. On the sidebar to the left, click on Appearence
 
-![appearence](./appearence.jpg)
-
-**Recommended tweaks**
-
-- Show Tab bar -> NEVER
 
 ------
 
@@ -91,16 +87,6 @@ https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.1/v
 > 1. In Finder, **right-click** (or Control+click) the app
 > 2. Select **Open** from the context menu
 > 3. A new dialog will appear with an **Open** button — click it
-
-**Customize the Icon**
-
-I preloaded my personal favorite icon for Messenger, but you can simply 
-
-1. Find a `.png` or `.icns` image you want to use
-2. Open the image in **Preview** and **Cmd+A** to select all, then **Cmd+C** to copy
-3. Right-click the app → **Get Info**
-4. Click the small icon in the **top-left corner** of the Get Info window (it'll get a blue highlight)
-5. **Cmd+V** to paste
 
 **Notes and Usage**
 
