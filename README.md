@@ -20,7 +20,7 @@ Wrapped using Pake, which uses Rust Tauri. 20x smaller than Electron apps.
 
 - Facebook account
 - MacOS Tahoe (Older versions may work, depending on Chromiums backward compatibility)
-- Diskspace: ~5 MB / RAM: ~50 MB
+- Diskspace: ~10 MB / RAM: ~50 MB
 
 **Download**
 
