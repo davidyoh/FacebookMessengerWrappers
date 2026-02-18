@@ -29,7 +29,27 @@ https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.0-R
 **Installation**
 
 1. Unzip, open the DMG file, and drag the app into your **Application Folder.**
-3. Open and Login
+2. Open and Login
+
+
+**If you are blocked**
+
+> ![Messenger Desktop Workarounds](./blocked.png)
+>
+> If you are unable to install because of your Mac's security setting, Try this.
+>
+> **Option 1: System Settings (easiest)**
+>
+> 1. Click **Done** on that dialog
+> 2. Go to **System Settings → Privacy & Security**
+> 3. Scroll down and you'll see a message like *"Messenger was blocked..."* with an **Open Anyway** button
+> 4. Click it, then confirm
+>
+> **Option 2: Right-click method**
+>
+> 1. In Finder, **right-click** (or Control+click) the app
+> 2. Select **Open** from the context menu
+> 3. A new dialog will appear with an **Open** button — click it
 
 **Customize the Icon**
 
@@ -68,25 +88,6 @@ https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.1/v
 
 1. Unzip, and drag the app into your **Application Folder.**
 2. **Optional** - From application folder, and drag the Messenger icon to your dock for easy access
-
-> [!TIP]
->
-> ![Messenger Desktop Workarounds](./blocked.png)
->
-> If you are unable to install because of your Mac's security setting, Try this.
->
-> **Option 1: System Settings (easiest)**
->
-> 1. Click **Done** on that dialog
-> 2. Go to **System Settings → Privacy & Security**
-> 3. Scroll down and you'll see a message like *"Messenger was blocked..."* with an **Open Anyway** button
-> 4. Click it, then confirm
->
-> **Option 2: Right-click method**
->
-> 1. In Finder, **right-click** (or Control+click) the app
-> 2. Select **Open** from the context menu
-> 3. A new dialog will appear with an **Open** button — click it
 
 **Notes and Usage**
 
