@@ -55,7 +55,7 @@ https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.0-R
 
 It defaults to whatever is available from Facebook, but you can simply...
 
-1. Find a `.png` or `.icns` image you want to use. Note: A good icon is here: https://github.com/davidyoh/FacebookMessengerWrappers/blob/main/src/assets/Facebook_Messenger.png
+1. Find a `.png` or `.icns` image you want to use. Note: A good icon is here: https://github.com/davidyoh/FacebookMessengerWrappers/blob/main/src/Messenger.png
 2. Open the image in **Preview** and **Cmd+A** to select all, then **Cmd+C** to copy
 3. Right-click the app → **Get Info**
 4. Click the small icon in the **top-left corner** of the Get Info window (it'll get a blue highlight)
