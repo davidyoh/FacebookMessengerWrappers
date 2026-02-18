@@ -24,7 +24,7 @@ Wrapped using Pake, which uses Rust Tauri. 20x smaller than Electron apps.
 
 **Download**
 
-
+https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.0-Rust/v0.1.0-Messenger-Rust-Tauri.dmg
 
 **Installation**
 
