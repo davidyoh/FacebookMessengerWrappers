@@ -29,13 +29,12 @@ https://github.com/davidyoh/FacebookMessengerWrappers/releases/download/v0.1.0-S
 **Installation**
 
 1. Unzip, and drag the app into your **Application Folder.**
-2. Optional. Rename the app from Messenger-Slim to Messenger (or whatever you want)
-3. Open Messenger. It will ask you what layout you want. Choose minimalist.
+3. Open Messenger-Slim. It will ask you what layout you want. Choose minimalist.
 4. Login to Messenger.
 
 **Customization**
 
-To make it even more minimal and get rid of the annoying tabs
+To make it even more minimal and get rid of the annoying tabs....
 
 <img src="./tabs.png" alt="Tabs" style="zoom:33%;" />
 
